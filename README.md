@@ -9,5 +9,6 @@ I ran the following programs:
 
 -Get the Fibonacci sequence.
 
-DataPath
+# DataPath
 
+![Screenshot 2022-09-07 174435](https://user-images.githubusercontent.com/75853217/189963151-285c0f53-611a-415e-af49-226a6c910525.png)
